@@ -25,7 +25,7 @@ Semua file preset di bawah ini bisa kamu temukan di dalam folder `preset/`.
 | **Ska & Reggae** | `ska (tipe-x)` | Optimasi instrumen tiup (brass) yang tajam dan guitar skank yang garing. |
 | **Ska & Swing** | `doggie style (shaggydog)` | Mix groovy antara walking bass yang tebal dan brass section yang classy. |
 | **Hiphop & Koplo** | `hiphop dangdut (ndx aka)` | Kombinasi sub-bass 808 yang deep dengan hi-hats tajam khas trap/koplo. |
-
+| **DJ & Carnival** | `bass horeg brutal | Optimasi punchy bass pada 122Hz untuk speakersound mini agar tetap nendang tanpa distorsi. |
 ---
 
 ## 🚀 Cara Penggunaan
